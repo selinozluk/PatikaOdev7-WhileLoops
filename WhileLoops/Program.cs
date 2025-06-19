@@ -4,7 +4,7 @@
         int i = 0;
         while (i < 10)
         {
-            // karışmaması için her cümlenin başına kaçıncı olduğunu yazdırır
+           // karışmaması için her cümlenin başına kaçıncı olduğunu yazdırır
             Console.WriteLine($"{i + 1}. Kendime inanıyorum, ben bu yazılım işini hallederim!");
             i++;
         }
